@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Sec
 - 🌱 I’m currently learning Bug hunting
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://twitter.com/AhmedTareq224
+- 📫 How to reach me https://twitter.com/AhmedT1337
 
 <!---
 AhmedTareq2050/AhmedTareq2050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
