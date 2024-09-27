@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedT1337
 - 👀 I’m interested in Cyber Sec
-- 🌱 I’m currently learning Bug hunting
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://twitter.com/AhmedT1337
 
